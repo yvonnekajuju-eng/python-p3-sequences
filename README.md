@@ -426,6 +426,8 @@ start value and a step size.
 While ranges are very similar to lists, a range is a different data type and
 they exhibit some unique behaviors.
 
+def print_fibonacci(length):
+
 For instance, when we `print()` a list, we can see its contents:
 
 ```py
